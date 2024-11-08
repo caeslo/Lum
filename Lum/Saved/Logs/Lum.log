@@ -1448,3 +1448,71 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.08-13.06.25:942][995]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 336.630066
 [2024.11.08-13.06.26:942][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.11.08-13.06.26:943][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 337.296936, Update Interval: 300.036621
+[2024.11.08-13.10.59:673][815]LogLinker: Warning: Failed to load '/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple': Can't find file.
+[2024.11.08-13.10.59:673][815]LogLinker: Warning: Failed to load '/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple': Can't find file.
+[2024.11.08-13.10.59:673][815]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple'
+[2024.11.08-13.10.59:712][815]LogLinker: Warning: Failed to load '/Game/Characters/Mannequins/Meshes/SKM_Quinn': Can't find file.
+[2024.11.08-13.10.59:712][815]LogLinker: Warning: Failed to load '/Game/Characters/Mannequins/Meshes/SKM_Quinn': Can't find file.
+[2024.11.08-13.10.59:712][815]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn'
+[2024.11.08-13.10.59:970][816]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: ================================================
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: RAM used: 20,33 KiB of 3,20 GiB budget. Usage: 0.00%
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.18 s
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Job execution time: average 0.73 s, max 0.73 s
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Job life time (pending + execution): average 0.91 s, max 0.91
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Shader code size: average 32,945 KiB, min 32,945 KiB, max 32,945 KiB
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.91 s
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Average processing rate: 1.09 jobs/sec
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Total thread time: 0,125 s
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Total thread preprocess time: 0,021 s
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Percentage time preprocessing: 16.69%
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Effective parallelization: 0.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.11.08-13.11.01:048][887]LogShaderCompilers: Display: ================================================
+[2024.11.08-13.11.02:450][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-13.11.02:705][938]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-13.11.07:115][984]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-13.11.07:447][985]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-13.11.07:781][986]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-13.11.08:706][  5]LogShaderCompilers: Error: SCW 1 Queued Jobs, Finished 1 single jobs
+[2024.11.08-13.11.08:706][  5]LogShaderCompilers: Error: Job 0 [Single] Failed: Material_0_81478b1252e89e60/Default/FLocalVertexFactory/TBasePassVSFNoLightMapPolicy/0:/Engine/Private/BasePassVertexShader.usf|Main VF 'FLocalVertexFactory' Type 'TBasePassVSFNoLightMapPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+[2024.11.08-13.11.08:738][  8]LogShaderCompilers: Error: ShaderCompileWorker crashed!
+Assertion failed: bDirectoryExists [File:D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\ShaderCore.cpp] [Line: 2755] 
+FPaths::DirectoryExists(D:/traveaux/Unreal/noemi/labyrinthe/Lum/Lum/Intermediate/ShaderAutogen D:/traveaux/Unreal/noemi/labyrinthe/Lum/Lum/Intermediate/ShaderAutogen) 6NK2JT3-ATIM103
+
+0x00007ff7c9cb2b3a ShaderCompileWorker.exe!FWorkLoop::ProcessInputFromArchive() []
+0x00007ff7c9caeb09 ShaderCompileWorker.exe!FWorkLoop::Loop() []
+0x00007ff7c9cababb ShaderCompileWorker.exe!GuardedMain() []
+0x00007ff7c9cabd52 ShaderCompileWorker.exe!GuardedMainWrapper() []
+0x00007ff7c9cbd989 ShaderCompileWorker.exe!wmain() []
+0x00007ff7c9cbf09c ShaderCompileWorker.exe!__scrt_common_main_seh() []
+0x00007fffaa4a257d KERNEL32.DLL!UnknownFunction []
+0x00007fffabdcaf08 ntdll.dll!UnknownFunction []
+
+
+
+
+[2024.11.08-13.11.08:738][  8]LogShaderCompilers: Error: File path: "C:/Users/ckarakas/AppData/Local/Temp/UnrealShaderWorkingDir/93252630424D1E6FC954DC90876DACA1/0/WorkerOutputOnly.out"
+Expecting single job header ID 0x00000053, got 0x00000000 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+
+[2024.11.08-13.11.14:666][654]Message dialog closed, result: Ok, title: Corrupted ShaderCompileWorker output file, text: File path: "C:/Users/ckarakas/AppData/Local/Temp/UnrealShaderWorkingDir/93252630424D1E6FC954DC90876DACA1/0/WorkerOutputOnly.out"
+Expecting single job header ID 0x00000053, got 0x00000000 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+[2024.11.08-13.11.14:666][654]LogWindows: FPlatformMisc::RequestExit(0, ShaderCompiler.ModalErrorOrLog)
+[2024.11.08-13.11.14:666][654]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0, ShaderCompiler.ModalErrorOrLog)
+[2024.11.08-13.11.14:666][654]LogCore: Engine exit requested (reason: Win RequestExit)
+[2024.11.08-13.11.14:666][654]LogShaderCompilers: Error: File path: "C:/Users/ckarakas/AppData/Local/Temp/UnrealShaderWorkingDir/93252630424D1E6FC954DC90876DACA1/0/WorkerOutputOnly.out"
+Expecting 1 single job, got 0 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+
