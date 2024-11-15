@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/traveaux/Unreal/noemi/labyrinthe/Lum/Lum/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/traveaux/Unreal/noemi/labyrinthe/Lum/Lum/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/traveaux/Unreal/noemi/labyrinthe/Lum/Lum/Content/Items/Potions.uasset",
+				"D:/traveaux/Unreal/noemi/labyrinthe/Lum/Lum/Content/Items/Piques.uasset",
+				"D:/traveaux/Unreal/noemi/labyrinthe/Lum/Lum/Content/Items/Battery.uasset",
 				"C:/Users/admin/Documents/Projet_unreal_blueprint_Lum/Lum/Lum/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset",
 				"C:/Users/admin/Documents/Projet_unreal_blueprint_Lum/Lum/Lum/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset",
 				"C:/Users/admin/Documents/Projet_unreal_blueprint_Lum/Lum/Lum/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/AY/QZKOAP8CJADUOVOI96ZLLP.uasset",
@@ -92,8 +97,7 @@
 				"C:/Users/admin/Documents/Projet_unreal_blueprint_Lum/Lum/Lum/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset",
 				"C:/Users/admin/Documents/Projet_unreal_blueprint_Lum/Lum/Lum/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset",
 				"C:/Users/admin/Documents/Projet_unreal_blueprint_Lum/Lum/Lum/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
-				"C:/Users/admin/Documents/Projet_unreal_blueprint_Lum/Lum/Lum/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/25CW4VR2ZW8Z0DEM0FQ8AV.uasset",
-				"D:/traveaux/Unreal/noemi/labyrinthe/Lum/Lum/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/admin/Documents/Projet_unreal_blueprint_Lum/Lum/Lum/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FH/25CW4VR2ZW8Z0DEM0FQ8AV.uasset"
 			]
 		}
 	]
